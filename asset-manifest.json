@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/crown-shopping/static/css/main.b2b8cdeb.css",
+    "main.js": "/crown-shopping/static/js/main.517f4c56.js",
+    "static/media/crown.svg": "/crown-shopping/static/media/crown.3a4e2b15908e7a4c25343677d232b7e6.svg",
+    "index.html": "/crown-shopping/index.html",
+    "main.b2b8cdeb.css.map": "/crown-shopping/static/css/main.b2b8cdeb.css.map",
+    "main.517f4c56.js.map": "/crown-shopping/static/js/main.517f4c56.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2b8cdeb.css",
+    "static/js/main.517f4c56.js"
+  ]
+}
